@@ -1,20 +1,19 @@
-=== After Login Redirect ===
-Tags: wp-login, wp-custom-login, login-redirect, custom-redirect, wp-login-customize
-Contributors: sajjad67
-Author: Sajjad Hossain Sagor
-Tested up to: 7.0
-Requires at least: 5.6
-Stable tag: 2.0.5
-Requires PHP: 8.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+# After Login Redirect
+
+[![Plugin Banner](https://ps.w.org/wp-after-login-redirect-advanced/assets/banner-1544x500.png)](https://wordpress.org/plugins/wp-after-login-redirect-advanced/)
+
+**Tags:** wp-login, wp-custom-login, login-redirect, custom-redirect, wp-login-customize \
+**Tested up to:** 7.0 \
+**Requires PHP:** 8.1
 
 Redirect user to anywhere at your will.
 
-== Description ==
+## Description
+
 Send user to custom page after successful user login. Filter user by id, email, username, user role and by user visited country to redirect user to specific page.
 
-= Features: =
+### Features:
+
 - Redirect Users After Login
 - Automatically Redirect to Specific Pages Based on Defined Filters
 - Auto-Suggest URLs for All Pages and Posts in the "Redirect To" Field
@@ -24,7 +23,8 @@ Send user to custom page after successful user login. Filter user by id, email, 
 - Save Filter Settings via AJAX
 - Compatibility with WooCommerce My Account page login
 
-== Installation ==
+## Installation
+
 To add a WordPress Plugin using the built-in plugin installer:
 
 Go to Plugins > Add New.
@@ -42,37 +42,58 @@ To add a WordPress Plugin from GitHub repo / plugin zip file :
 4. The resulting installation screen will list the installation as successful or note any problems during the install.
 If successful, click Activate Plugin to activate it, or Return to Plugin Installer for further actions.
 
-== Frequently Asked Questions ==
-= How to use this plugin? =
-Just activate After Login Redirect plugin, and go to plugin page called Login Redirect and add your filters freely.
-== Screenshots ==
-1. Login Redirect Filter Add.
+## Frequently Asked Questions
 
-== Changelog ==
-= 2.0.5 =
+### How to use this plugin?
+
+Just activate After Login Redirect plugin, and go to plugin page called Login Redirect and add your filters freely.
+## Screenshots
+
+### 1. Login Redirect Filter Add.
+
+![Login Redirect Filter Add.](https://ps.w.org/wp-after-login-redirect-advanced/assets/screenshot-1.png)
+
+
+## Changelog
+
+### 2.0.5
 - Compatibility checkup for latest wp version 7.0
-= 2.0.4 =
+
+### 2.0.4
 - Checked for latest wp version 6.9
-= 2.0.3 =
+
+### 2.0.3
 - Added redirection by user visited country
-= 2.0.2 =
+
+### 2.0.2
 - Added compatibility with WooCommerce My Account login
-= 2.0.1 =
+
+### 2.0.1
 - Checked for latest wp version 6.8
-= 2.0.0 =
-- Major changes in codebase. Compatibility checkup for latest wp version 6.7
-= 1.0.5 =
+
+### 2.0.0
+- Minor changes in codebase only.
+
+### 1.0.5
+
 - Compatibility check for wp v6.6
-= 1.0.4 =
+
+### 1.0.4
+
 - Compatibility check for wp v6.3
-= 1.0.3 =
+### 1.0.3
+
 - Minor Updates.
-= 1.0.2 =
-- Compatibility check for wp v6.2
-= 1.0.1 =
+### 1.0.2
+
+- Compatibility check for wp v6.
+### 1.0.1
+
 - Minor Updates.
-= 1.0.0 =
+### 1.0.0
+
 - Initial release.
 
-== Upgrade Notice ==
+## Upgrade Notice
+
 Always try to keep your plugin update so that you can get the improved and additional features added to this plugin up to date.
